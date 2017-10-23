@@ -1,7 +1,7 @@
 /*
  * Problema2.cpp
  *
- *  Created on: 20 oct. 2017
+ *  Created on: 19 oct. 2017
  *      Author: Jose Paz
  */
 
